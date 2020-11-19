@@ -6,10 +6,10 @@ sections:
     type: section_hero
     title: 'Hi, I''m Tony Kwang Hyun Kim'
     content: >-
-      I am an Industrial - Organizational Psychologist that specializes in**
-      employee engagement, employee well-being, and organizational culture**. I
-      utilize my skills in **survey methods** and **people analytics** to offer
-      tangible business solutions. 
+      I am an Industrial - Organizational Psychologist that specializes in
+      **employee engagement, employee well-being, and organizational culture**.
+      I utilize my skills in **survey methods** and **people analytics** to
+      offer tangible business solutions. 
     actions:
       - label: Let's talk
         url: /contact
