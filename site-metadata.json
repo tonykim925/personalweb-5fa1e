@@ -1,7 +1,7 @@
 {
     "description": "A portfolio theme with a blog",
     "color_scheme": "light",
-    "accent_color": "blue",
+    "accent_color": "yellow",
     "header": {
         "title": "T.K.",
         "has_nav": true,
