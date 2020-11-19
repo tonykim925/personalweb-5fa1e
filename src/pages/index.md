@@ -6,8 +6,10 @@ sections:
     type: section_hero
     title: 'Hi, I''m Tony Kwang Hyun Kim'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      I am an Industrial - Organizational Psychologist that specializes in
+      employee engagement, employee well-being, and organizational culture. I
+      utilize my skills in survey methods and people analytics to offer tangible
+      business solutions. 
     actions:
       - label: Let's talk
         url: /contact
