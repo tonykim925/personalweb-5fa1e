@@ -16,7 +16,7 @@ sections:
       **Curious to know more?**
     actions:
       - label: Let's talk
-        url: /contact
+        url: /Abo
         style: button
   - section_id: latest-projects
     type: section_portfolio
