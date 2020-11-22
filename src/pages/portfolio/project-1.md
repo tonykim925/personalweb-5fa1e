@@ -1,5 +1,5 @@
 ---
-title: 'Method '
+title: ''
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/9.jpg
