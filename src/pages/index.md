@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Tony Kim'
+    title: Hello! I'm Tony Kim
     content: >-
       I am an Industrial - Organizational Psychologist that specializes in
       **employee engagement, employee well-being,** and **organizational
