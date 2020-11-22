@@ -16,7 +16,7 @@ sections:
       **Curious to know more?**
     actions:
       - label: About Me
-        url: /About
+        url: /about/
         style: button
   - section_id: latest-projects
     type: section_portfolio
