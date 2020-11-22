@@ -9,7 +9,11 @@ sections:
       I am an Industrial - Organizational Psychologist that specializes in
       **employee engagement, employee well-being,** and **organizational
       culture**. I utilize my skills in **survey methods** and **people
-      analytics** to offer tangible people solutions. 
+      analytics** to offer tangible people solutions.
+
+
+
+      Curious to know more? 
     actions:
       - label: Let's talk
         url: /contact
