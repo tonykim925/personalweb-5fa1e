@@ -1,5 +1,5 @@
 ---
-title: 'Employers Guide: Improving Wellness Program'
+title: 'Employers Guide: How to Implement a Wellness Program'
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
 thumb_image: images/tim-goedhart-vnpTRdmtQ30-unsplash (1).jpg
