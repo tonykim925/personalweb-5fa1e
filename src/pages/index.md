@@ -21,7 +21,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: 'Recent Work '
+    title: Most recent work
     subtitle: ''
     projects_number: 4
     view_all_label: View All
