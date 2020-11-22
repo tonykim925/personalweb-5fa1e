@@ -2,7 +2,7 @@
 title: 'Title #1'
 subtitle: Optional Project Subtitle
 date: '2019-05-10'
-thumb_image: images/9.jpg
+thumb_image: images/tim-goedhart-vnpTRdmtQ30-unsplash (1).jpg
 image: images/1.jpg
 template: project
 ---
