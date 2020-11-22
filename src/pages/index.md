@@ -15,7 +15,7 @@ sections:
 
       **Curious to know more?**
     actions:
-      - label: Let's talk
+      - label: About Me
         url: /About
         style: button
   - section_id: latest-projects
