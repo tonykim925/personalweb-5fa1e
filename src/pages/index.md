@@ -13,7 +13,7 @@ sections:
 
 
 
-      Curious to know more? 
+      **Curious to know more?**
     actions:
       - label: Let's talk
         url: /contact
