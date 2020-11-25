@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: 'Hi, My name is Tony Kwang Hyun Kim '
+subtitle: ''
 template: page
 ---
 
