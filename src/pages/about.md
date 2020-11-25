@@ -1,7 +1,6 @@
 ---
 title: About Us
 subtitle: This is a short page about us and our work.
-image: images/IMG_20191024_143741 (1).jpg
 template: page
 ---
 
