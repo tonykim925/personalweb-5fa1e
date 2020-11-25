@@ -22,7 +22,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Recent Work
-    subtitle: Key Performance Indicators
+    subtitle: 'So.... What can I do? '
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
