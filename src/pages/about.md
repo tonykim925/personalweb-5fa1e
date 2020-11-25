@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: ''
+subtitle: 'Who am I and what a I passionate about? '
 template: page
 ---
 
