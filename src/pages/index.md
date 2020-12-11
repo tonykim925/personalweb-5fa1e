@@ -6,10 +6,17 @@ sections:
     type: section_hero
     title: 'Hello! I''m Tony '
     content: >-
-      I am an Industrial - Organizational Psychologist that specializes in
-      **employee engagement, employee well-being,** and **organizational
-      culture**. I utilize my skills in **survey methods** and **people
-      analytics** to offer tangible people solutions.
+      I am an Industrial - Organizational Psychologist living in the San
+      Francisco Bay Area.  Although I consider myself to be a HR generalist,  I
+      have specialized in**employee engagement, employee well-being,** and
+      **organizational culture**. 
+
+
+      I believe that organizations I utilize my skills in **survey methods** and
+      **people analytics** to offer tangible people solutions.
+
+
+
 
 
 
