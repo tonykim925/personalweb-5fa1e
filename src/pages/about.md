@@ -7,7 +7,8 @@ template: page
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
 
 >
-"Those time when you get up early... those times when you stay up late... when you're too tired... you don't want to push yourself, but you do it anyway."
+Those time when you get up early... those times when you stay up late... when you're too tired... you don't want to push yourself, but you do it anyway.
+>
 "That is actually the dream." - Kobe Bryant
 
 
