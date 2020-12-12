@@ -29,7 +29,7 @@ sections:
   - section_id: services
     type: section_grid
     title: Skillsets
-    subtitle: 'So... What '
+    subtitle: So... What can I do?
     col_number: two
     is_numbered: true
     grid_items:
