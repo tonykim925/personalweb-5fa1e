@@ -34,10 +34,12 @@ sections:
     is_numbered: true
     grid_items:
       - title: 'People Analytics '
-        content: >-
-          By collecting and analyzing data on key human metrics, organizations
-          may uncover trends and patterns that may be crucial to driving
-          business values. 
+        content: >
+          I have helped organizations collect and analyze data on key human
+          metrics to uncover trends and patterns that may be crucial in driving
+          business values. My utilize my domain expertise in organizational
+          psychology and data analytics to provide adquate insights and
+          solutions. 
 
 
           **Proficiency in R & SPSS; base knowledge  in SQL**
