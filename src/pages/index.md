@@ -8,10 +8,8 @@ sections:
     content: >-
       I am an Industrial - Organizational Psychologist living in the San
       Francisco Bay Area.  I utilize my skills in **people analytics** and
-      **survey methods**  to offer tangible people solutions.
-
-
-
+      knowledge of **organizational psychology** to offer tangible people
+      solutions.
 
 
 
