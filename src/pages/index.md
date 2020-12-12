@@ -35,9 +35,12 @@ sections:
     grid_items:
       - title: 'People Analytics '
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          By collecting and analyzing data on key human metrics, organizations
+          may uncover trends and patterns that may be crucial to driving
+          business values. 
+
+
+          **Proficiency in R & SPSS, & basic knowledge in SQL**
       - title: Extensive Knowledge of HR Functions
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
