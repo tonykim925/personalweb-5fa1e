@@ -40,6 +40,7 @@ sections:
           values. I utilize my domain expertise in organizational psychology and
           data analytics to provide adquate insights and solutions. 
 
+
           **Proficiency in R & SPSS; Fundamental SQL**
       - title: Extensive Knowledge of HR Functions
         content: >+
