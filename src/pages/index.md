@@ -59,7 +59,7 @@ sections:
 
 
           **Experience implementing and analyzing engagement, organizational
-          climate, employee well-being surveys. 
+          climate, employee well-being surveys.**
       - title: 'Employee Well-Being '
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
