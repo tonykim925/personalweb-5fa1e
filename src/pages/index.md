@@ -42,10 +42,16 @@ sections:
 
           **Proficiency in R & SPSS; base knowledge  in SQL**
       - title: Extensive Knowledge of HR Functions
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: >+
+          My master's program in Industrial-Organizational Psychology provided
+          training in the following areas: learning & development, recruitment &
+          selection, performance appraisal, leadership, organizational culture,
+          and employee well-being, This knowledge is compounded through various
+          research consulting projects  at the Interdisciplinary Center for
+          Healthy Workplaces. 
+
+
+
       - title: Survey Creation & Analysis
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
