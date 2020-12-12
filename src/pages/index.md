@@ -41,7 +41,6 @@ sections:
           psychology and data analytics to provide adquate insights and
           solutions. 
 
-
           **Proficiency in R & SPSS; base knowledge  in SQL**
       - title: Extensive Knowledge of HR Functions
         content: >+
