@@ -51,7 +51,7 @@ sections:
           employee well-being, etc. 
 
 
-      - title: 'Engagement Surveys '
+      - title: 'Engagement & '
         content: >-
           Although surveys often recieve a bad rep, they are efficient tools to
           obtain key employee metrics. As an I-O psychologists, I have extensive
