@@ -37,7 +37,7 @@ sections:
         content: >
           I have helped organizations collect and analyze data on key human
           metrics to uncover trends and patterns that may be crucial in driving
-          business values. My utilize my domain expertise in organizational
+          business values. I utilize my domain expertise in organizational
           psychology and data analytics to provide adquate insights and
           solutions. 
 
