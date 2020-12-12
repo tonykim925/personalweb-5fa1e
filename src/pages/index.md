@@ -40,7 +40,7 @@ sections:
           business values. 
 
 
-          **Proficiency in R & SPSS, & basic knowledge in SQL**
+          **Proficiency in R & SPSS, with basic knowledge in SQL**
       - title: Extensive Knowledge of HR Functions
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
