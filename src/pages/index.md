@@ -52,9 +52,14 @@ sections:
 
       - title: Survey Creation & Analysis
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          Although surveys often recieve a bad rep, they are efficient tools to
+          obtain key employee metrics. As an I-O psychologists, I have extensive
+          training and experience on how to design and analyze surveys aiming to
+          understand employee behaviors and attitudes. 
+
+
+          **Experience implementing and analyzing engagement, organizational
+          climate, employee well-being surveys. 
       - title: 'Employee Well-Being '
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
