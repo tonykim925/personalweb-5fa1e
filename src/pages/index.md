@@ -43,11 +43,21 @@ sections:
           **Proficiency in R & SPSS; base knowledge  in SQL**
       - title: Extensive Knowledge of HR Functions
         content: >+
-          As a graduate of San Francisco State University's
-          Industrial-Organizational Psychology Program: I have recieved training
-          on the following areas: learning & development, recruitment &
-          selection, performance appraisal, leadership, organizational culture,
-          and employee well-being.
+          * As a graduate of San Francisco State University's
+          Industrial-Organizational Psychology Masters Program, I have recieved
+          training on the following areas: 
+
+          1. learning & development
+
+          2. recruitment & selection
+
+          3. performance appraisal
+
+          4.  leadership
+
+          5. organizational culture
+
+          6. employee well-being.
 
 
       - title: Survey Creation & Analysis
