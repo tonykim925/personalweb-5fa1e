@@ -36,10 +36,9 @@ sections:
       - title: 'People Analytics '
         content: >
           I have helped organizations collect and analyze data on key human
-          metrics to uncover trends and patterns that may be crucial in driving
-          business values. I utilize my domain expertise in organizational
-          psychology and data analytics to provide adquate insights and
-          solutions. 
+          metrics to uncover trends and patterns crucial in driving business
+          values. I utilize my domain expertise in organizational psychology and
+          data analytics to provide adquate insights and solutions. 
 
           **Proficiency in R & SPSS; Fundamental SQL**
       - title: Extensive Knowledge of HR Functions
