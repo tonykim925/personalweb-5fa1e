@@ -58,7 +58,7 @@ sections:
           experience designing and analyzing surveys aiming to understand
           employee behaviors and attitudes. Experience with **engagement,
           organizational climate, employee well-being surveys**
-      - title: 'A '
+      - title: ''
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
