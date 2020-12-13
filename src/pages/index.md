@@ -50,8 +50,8 @@ sections:
 
 
           **Including but not limited to: Learning & Development, Recruitment &
-          Selection, Performance Appraisal, Leadership, Organizational Culture,
-          Employee Well-Being, Etc.**
+          Selection, Performance Appraisal, Organizational Culture, and Employee
+          Well-Being
 
 
       - title: Survey Design & Analysis
