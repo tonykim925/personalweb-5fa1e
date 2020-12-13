@@ -53,14 +53,10 @@ sections:
 
 
       - title: Survey Design & Analysis
-        content: >-
+        content: >
           Although surveys often recieve a bad rep, they are efficient tools to
           obtain key employee metrics. I have designed and analyzed surveys
           aiming to understand employee behaviors and attitudes. 
-
-
-          **Specific experience with Engagement, Organizational Climate,
-          Employee Well-Being surveys**
       - title: ''
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
