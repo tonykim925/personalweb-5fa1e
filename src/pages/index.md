@@ -49,9 +49,9 @@ sections:
           training on the following areas:
 
 
-          **learning & development, recruitment & selection, performance
-          appraisal, leadership, organizational culture, employee well-being,
-          etc.**
+          **Learning & Development, Recruitment & Selection, Performance
+          Appraisal, Leadership, Organizational Culture, Employee Well-Being,
+          Etc.**
 
 
       - title: Survey Design & Analysis
