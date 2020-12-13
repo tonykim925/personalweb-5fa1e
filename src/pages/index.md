@@ -59,7 +59,7 @@ sections:
           aiming to understand employee behaviors and attitudes. 
 
 
-          **Experience with Engagement, Org Climate, and Well-Being Surveys**
+          **Exp. with Engagement, Org Climate, and Well-Being Surveys**
       - title: ''
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
