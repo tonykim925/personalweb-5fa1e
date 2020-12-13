@@ -38,8 +38,8 @@ sections:
         content: >
           I have helped organizations collect and analyze data on key human
           metrics to uncover trends and patterns crucial in driving business
-          values. I utilize my domain expertise in organizational psychology and
-          data analytics to provide adquate insights and solutions.
+          values. 
+
 
           **Proficiency in R & SPSS; Fundamental SQL**
       - title: Extensive Knowledge of HR Functions
