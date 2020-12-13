@@ -46,9 +46,12 @@ sections:
         content: >+
           As a graduate of San Francisco State University's
           Industrial-Organizational Psychology Masters Program, I have recieved
-          training on the following areas: **learning & development, recruitment
-          & selection, performance appraisal, leadership, organizational
-          culture, employee well-being, etc.**
+          training on the following areas:
+
+
+          **learning & development, recruitment & selection, performance
+          appraisal, leadership, organizational culture, employee well-being,
+          etc.**
 
 
       - title: Survey Design & Analysis
