@@ -49,9 +49,6 @@ sections:
           functions. 
 
 
-          **Including but not limited to: Learning & Development, Recruitment &
-          Selection, Performance Appraisal, Organizational Culture, and Employee
-          Well-Being**
 
 
 
