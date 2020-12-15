@@ -3,8 +3,9 @@ title: About Me
 subtitle: 'Who am I and what am I passionate about? '
 template: page
 ---
+However you may have come across this website, welcome! My name is Tony Kim and I am an Industrial-Organizational Psychologist living in the San Francisco Bay Area. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+My belief is that people 
 
 >
 Those time when you get up early... those times when you stay up late... when you're too tired... you don't want to push yourself, but you do it anyway.
