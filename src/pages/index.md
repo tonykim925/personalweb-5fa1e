@@ -72,9 +72,6 @@ sections:
     subtitle: ''
     posts_number: 3
     col_number: three
-    actions:
-      - label: View Blog
-        url: blog
-        style: button
+    actions: []
 template: advanced
 ---
