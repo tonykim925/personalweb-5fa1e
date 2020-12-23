@@ -21,7 +21,7 @@ sections:
         style: button
       - label: Resume
         url: ''
-        style: link
+        style: button
         icon_class: lorem-ipsum
         new_window: false
         type: action
