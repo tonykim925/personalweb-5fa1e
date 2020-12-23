@@ -66,11 +66,6 @@ sections:
 
 
           **Exp. with Engagement, Org Climate, and Well-Being Surveys**
-      - title: ''
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        actions: []
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
