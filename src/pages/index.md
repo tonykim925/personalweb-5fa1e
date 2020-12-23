@@ -18,7 +18,7 @@ sections:
     actions:
       - label: About Me
         url: /about/
-        style: button
+        style: link
       - label: Resume
         url: ''
         style: link
