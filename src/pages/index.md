@@ -29,7 +29,7 @@ sections:
     type: section_portfolio
     layout_style: mosaic
     title: Portfolio
-    subtitle: So..... What have I done?
+    subtitle: ''
     projects_number: 4
     view_all_label: View All
     view_all_url: portfolio
