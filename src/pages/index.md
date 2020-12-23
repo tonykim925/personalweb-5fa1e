@@ -20,7 +20,7 @@ sections:
         url: /about/
         style: button
       - label: Resume
-        url: lorem-ipsum
+        url: ''
         style: link
         icon_class: lorem-ipsum
         new_window: false
