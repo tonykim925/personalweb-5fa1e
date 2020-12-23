@@ -19,7 +19,7 @@ sections:
       - label: About Me
         url: /about/
         style: button
-      - label: lorem-ipsum
+      - label: Resume
         url: lorem-ipsum
         style: link
         icon_class: lorem-ipsum
