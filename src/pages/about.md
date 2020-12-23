@@ -2,6 +2,7 @@
 title: About Me
 subtitle: 'Who am I and what am I passionate about? '
 template: page
+image: images/rainy-sunflower.jpg
 ---
 Hello! My name is Tony Kim and I am a workforce & people analyst living in the San Francisco Bay Area. My belief is that an organization’s success is dependent on its people. That is why my work is focused on advising organizations on how to make the best people decisions based on appropriate research and data analytics. I apply my professional and educational background in economics and Industrial-Organizational psychology to provide a unique and multidisciplinary perspective to people management. 
 
