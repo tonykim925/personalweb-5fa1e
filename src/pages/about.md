@@ -3,16 +3,14 @@ title: About Me
 subtitle: 'Who am I and what am I passionate about? '
 template: page
 ---
-However you may have come across this website, welcome! My name is Tony Kim and I am an Industrial-Organizational Psychologist living in the San Francisco Bay Area. 
+Hello! My name is Tony Kim and I am a workforce & people analyst living in the San Francisco Bay Area. My belief is that an organization’s success is dependent on its people. That is why my work is focused on advising organizations on how to make the best people decisions based on appropriate research and data analytics. I apply my professional and educational background in economics and Industrial-Organizational psychology to provide a unique and multidisciplinary perspective to people management. 
 
-My belief is that people 
+Here are some of my skillsets: 
 
->
-Those time when you get up early... those times when you stay up late... when you're too tired... you don't want to push yourself, but you do it anyway.
-"That is actually the dream." - Kobe Bryant 
+People analytics (R, SPSS, & fundamental SQL), Survey Methods (engagement, climate, well-being, etc.), research design, & experience in many HR functions (selection/recruitment design, learning & development, organizational culture, change management, etc.) 
+
+Please feel free to check out my portfolio to see some of my latest projects. For any inquiries please email me at tony.kim925@gmail.com.  I’ll get back to you as soon as possible. 
+
+Tony (Kwang Hyun) Kim 
 
 
-
-In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod turpis et nisi fermentum accumsan. Sed mollis vehicula augue sit amet accumsan. Nunc mollis, risus sed ullamcorper bibendum, odio est molestie tellus, venenatis rutrum mauris nibh at nibh. In a auctor leo, eu pretium ante. Quisque faucibus tincidunt fringilla. Donec tempor accumsan ante, in cursus metus tincidunt at. Proin sit amet ligula sed libero consequat consectetur eu tincidunt nulla. 
-
-*Thank You for reading!*
