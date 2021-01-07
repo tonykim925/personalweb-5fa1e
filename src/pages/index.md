@@ -6,11 +6,9 @@ sections:
     type: section_hero
     title: 'Hello! I''m Tony '
     content: >-
-      I am an Industrial - Organizational Psychologist living in the San
-      Francisco Bay Area.  I utilize my skills in **people analytics** and
-      knowledge of **organizational psychology** to offer tangible people
-      solutions.
-
+      I am a people & workplace researcher living in the San Francisco Bay Area.
+      I am passionate about helping organizations make data and research-driven
+      decisions when it comes to their most valuable resource - the workers.
 
 
 
