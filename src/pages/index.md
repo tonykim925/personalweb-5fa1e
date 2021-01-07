@@ -26,7 +26,7 @@ sections:
         new_window: false
         type: action
       - label: Linkedin
-        url: lorem-ipsum
+        url: 'https://www.linkedin.com/in/tonykhkim/'
         style: link
         icon_class: lorem-ipsum
         new_window: false
