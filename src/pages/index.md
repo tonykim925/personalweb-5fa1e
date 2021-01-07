@@ -19,14 +19,14 @@ sections:
       - label: About Me
         url: /about/
         style: link
-      - label: Resume
-        url: ''
+      - label: Linkedin
+        url: 'https://www.linkedin.com/in/tonykhkim/'
         style: link
         icon_class: lorem-ipsum
         new_window: false
         type: action
-      - label: Linkedin
-        url: 'https://www.linkedin.com/in/tonykhkim/'
+      - label: Resume
+        url: ''
         style: link
         icon_class: lorem-ipsum
         new_window: false
