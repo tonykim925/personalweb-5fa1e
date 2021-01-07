@@ -27,7 +27,7 @@ sections:
         type: action
       - label: Linkedin
         url: 'https://www.linkedin.com/in/tonykhkim/'
-        style: button
+        style: link
         icon_class: lorem-ipsum
         new_window: false
         type: action
