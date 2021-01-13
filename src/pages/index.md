@@ -5,11 +5,10 @@ sections:
   - section_id: hero
     type: section_hero
     title: 'Hello! I''m Tony '
-    content: >-
+    content: >
       I am a people & workplace researcher living in the San Francisco Bay Area.
       I am passionate about helping organizations make data and research-driven
-      decisions when it comes to their most valuable resource - the workers.
-
+      decisions when it comes to their most valuable resource - their workers.
 
 
       **Curious to know more?**
