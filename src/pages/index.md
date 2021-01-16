@@ -11,6 +11,11 @@ sections:
       decisions when it comes to their most valuable resource - their workers.
 
 
+      I have experience with human resource consulting, people analytics, 
+      survey design, and an understanding of multiple HR functions through my
+      background in industrial-organizational psychology. 
+
+
       **Curious to know more?**
     actions:
       - label: About Me
