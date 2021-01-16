@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: 'Who am I and what am I passionate about? '
+subtitle: Who am I and what am I passionate about?
 template: page
 image: images/cropped.jpg
 ---
