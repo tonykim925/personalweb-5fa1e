@@ -8,23 +8,9 @@ thumb_image: images/turnover.png
 image: images/collage final.jpg
 template: project
 ---
-Key Documents:
+[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)Full Report (Documentation + Code Included):  [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[PDF](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
 
-*   [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
-
-    Full Report:
-
-    [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
-
-    [PDF](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
-
-    [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
-
-    [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
-
-
-
-*   [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/download)
+Kaggle Dataset: [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/download)
 
 ##### [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)Project Goals:
 
