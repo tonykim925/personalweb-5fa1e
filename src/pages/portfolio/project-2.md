@@ -5,7 +5,7 @@ subtitle: >-
   Programs Creation, Qualitative & Quantitative Analysis
 date: '2019-04-30'
 thumb_image: images/FOW-Hauser-Workplace-Wellness-2400.jpg
-image: images/FOW-Hauser-Workplace-Wellness-2400.jpg
+image: images/enthusiastic-spinach.jpg
 template: project
 ---
 
