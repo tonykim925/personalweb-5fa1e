@@ -8,9 +8,7 @@ thumb_image: images/turnover.png
 image: images/collage final.jpg
 template: project
 ---
-Created By: Tony Kwang Hyun Kim  
-
-\<br/>  Full Report (Documentation + Code Included): [**PDF**](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/download)
+Created By: Tony Kwang Hyun Kim \<br/>  Full Report (Documentation + Code Included): [**PDF**](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/download)
 
 ##### [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)Project Goals:
 
