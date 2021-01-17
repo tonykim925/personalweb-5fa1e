@@ -1,5 +1,5 @@
 ---
-title: SFSU Values and Basic Needs Studydfd
+title: ''
 subtitle: 'Skills: Survey Design & Analysis, Engagement,'
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
