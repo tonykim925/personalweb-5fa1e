@@ -8,9 +8,23 @@ Hello! My name is Tony Kim and I am a workforce & people analyst living in the S
 
 Here are some of my skillsets:
 
+*   **People Analytics **
+
+    (R, SPSS, & Fundamental SQL)
+
+*   **Survey Design & Analysis**
+
+     (Engagement, Climate, Well-Being, Etc.)
+
+
+
+
+
+
+
 *   **People Analytics**
 
-      \- R, SPSS, & fundamental SQL
+    \- R, SPSS, & fundamental SQL
 
 *   **Survey Methods & Analysis**
 
