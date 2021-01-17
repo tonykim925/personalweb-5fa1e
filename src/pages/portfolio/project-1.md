@@ -1,8 +1,8 @@
 ---
 title: IBM Retention Data Set Analysis
 subtitle: >-
-  Utilized Kaggle's IBM workforce dataset to understand why people are leaving
-  the organization.
+  Skills Used: People analytics, data visualization, data wrangling, exploratory
+  data analysis, human resource consultation
 date: '2019-05-10'
 thumb_image: images/tim-goedhart-vnpTRdmtQ30-unsplash (1).jpg
 image: images/1.jpg
