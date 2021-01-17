@@ -34,7 +34,7 @@ sections:
     title: Portfolio
     subtitle: ''
     projects_number: 4
-    view_all_label: View All
+    view_all_label: View All Projects
     view_all_url: portfolio
   - section_id: services
     type: section_grid
