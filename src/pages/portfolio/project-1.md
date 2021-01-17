@@ -8,7 +8,23 @@ thumb_image: images/turnover.png
 image: images/collage final.jpg
 template: project
 ---
-###### [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)Full Report on IBM data: [PDF](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)                                          Kaggle Dataset: [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+##### [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)Key Documents: 
+
+*   [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
+
+    Full Report on IBM data: 
+
+    [PDF](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
+
+    [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
+
+    [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
+
+     
+
+*   Kaggle Dataset: 
+
+    [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ##### [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)Project Goals:
 
@@ -32,4 +48,4 @@ template: project
 
 [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)For organizations, turnover is often extremely costly. Resources must be allocated to finding a suitable replacement, and even after finding someone, the organization must invest in the replacement's learning and development. Because turnover comes at a premium, organizational psychologists often use turnover as a way to persuade company leaders to better care for their employees. This is one reason why I believe company culture, engagement, and well-being have recently become such hot topics.
 
-##### [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
+#####
