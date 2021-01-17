@@ -5,7 +5,7 @@ subtitle: >-
   data analysis, human resource consultation
 date: '2019-05-10'
 thumb_image: images/turnover.png
-image: images/collage (1).jpg
+image: images/collage final.jpg
 template: project
 ---
 
