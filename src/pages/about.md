@@ -8,36 +8,15 @@ Hello! My name is Tony Kim and I am a workforce & people analyst living in the S
 
 Here are some of my skillsets:
 
-*   **People Analytics **
+1.  People Analytics (R, SPSS, Fundamental SQL)
 
-    (R, SPSS, & Fundamental SQL)
+2.  Survey Design & Analysis (Engagement, Climate, Well-Being, Sentiment, Etc.)
 
-*   **Survey Design & Analysis**
+3.  Research Design 
 
-     (Engagement, Climate, Well-Being, Etc.)
+4.  Understanding of Multiple HR Functions (Selection/Recruitment, Learning & Development, Organizational Culture, Etc.)
 
-
-
-
-
-
-
-*   **People Analytics**
-
-    \- R, SPSS, & fundamental SQL
-
-*   **Survey Methods & Analysis**
-
-    (engagement, climate, well-being, etc.)
-
-*   **Research Design**
-
-*   \**Experience in  HR functions **
-    (selection/recruitment design, learning & development, organizational culture, change management, etc.)
-
-*   **Consultanting**
-
-    (HR + Strategy)
+5.  Consultanting (HR + Strategy)
 
 Please feel free to check out my portfolio to see some of my latest projects. For any inquiries please email me at *tony.kim925@gmail.com*.  I’ll get back to you as soon as possible.
 
