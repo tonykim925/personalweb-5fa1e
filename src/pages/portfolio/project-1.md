@@ -12,6 +12,8 @@ Key Documents:
 
 *   [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
 
+    Full Report: 
+
     [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
 
     [PDF](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
