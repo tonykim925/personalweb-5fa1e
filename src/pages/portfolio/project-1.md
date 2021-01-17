@@ -8,7 +8,7 @@ thumb_image: images/turnover.png
 image: images/collage final.jpg
 template: project
 ---
-##### [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)Key Documents:
+#####
 
 1.  [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
 
