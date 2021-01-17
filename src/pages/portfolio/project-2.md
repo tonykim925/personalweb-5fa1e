@@ -2,7 +2,7 @@
 title: 'Employer''s Guide: How to Implement Successful Wellness Programs '
 subtitle: 'Skills: Survey Design & Analysis, Engagement,'
 date: '2019-04-30'
-thumb_image: images/2_thumb.jpg
+thumb_image: images/FOW-Hauser-Workplace-Wellness-2400.jpg
 image: images/2.jpg
 template: project
 ---
