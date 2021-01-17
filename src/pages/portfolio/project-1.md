@@ -4,7 +4,7 @@ subtitle: >-
   Skills Used: People analytics, data visualization, data wrangling, exploratory
   data analysis, human resource consultation
 date: '2019-05-10'
-thumb_image: images/tim-goedhart-vnpTRdmtQ30-unsplash (1).jpg
+thumb_image: images/amazing-kale.jpg
 image: images/collage (1).jpg
 template: project
 ---
