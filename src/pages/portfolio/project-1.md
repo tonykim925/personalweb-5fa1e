@@ -10,7 +10,7 @@ template: project
 ---
 ##### [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)Key Documents:
 
-*   [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
+1.  [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
 
     Full Report:
 
@@ -20,9 +20,7 @@ template: project
 
     [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
 
-     
-
-*   Kaggle Dataset:
+2.  Kaggle Dataset:
 
     [ IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
