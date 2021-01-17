@@ -20,11 +20,13 @@ template: project
 
 4.  Have fun with a new dataset
 
-##### Skills Utilized: 
+##### Skills Utilized:
 
-1.  Data Wran
-
-
+1.  Data Wrangling (mainly dplyr)
+2.  Survey Analysis 
+3.  Data Visualization (ggplot2)
+4.  Report Creation 
+5.  Exploratory Data Analysis 
 
 ##### Introduction
 
