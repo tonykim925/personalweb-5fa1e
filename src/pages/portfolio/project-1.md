@@ -8,9 +8,7 @@ thumb_image: images/turnover.png
 image: images/collage final.jpg
 template: project
 ---
-Created By: Tony Kwang Hyun Kim
-
-Full Report (Documentation + Code Included): [**PDF**](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/download)
+Created By: Tony Kwang Hyun Kim  \<br/>  Full Report (Documentation + Code Included): [**PDF**](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/download)
 
 ##### [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)Project Goals:
 
@@ -38,6 +36,6 @@ Full Report (Documentation + Code Included): [**PDF**](https://tonykim925.github
 
 [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)For organizations, turnover is often extremely costly. Resources must be allocated to finding a suitable replacement, and even after finding someone, the organization must invest in the replacement's learning and development. Because turnover comes at a premium, organizational psychologists often use turnover as a way to persuade company leaders to better care for their employees. This is one reason why I believe company culture, engagement, and well-being have recently become such hot topics.
 
-Here I have created a report which used the IBM Retention Dataset to better understand the reasons why employees are leaving the organization. My analysis focused on exploratory data analysis and was done to provide a better understanding of the data and to help develop informed hypotheses. 
+Here I have created a report which used the IBM Retention Dataset to better understand the reasons why employees are leaving the organization. My analysis focused on exploratory data analysis and was done to provide a better understanding of the data and to help develop informed hypotheses.
 
 #####
