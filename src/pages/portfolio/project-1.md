@@ -1,6 +1,6 @@
 ---
 title: IBM Retention Data Set Analysis
-subtitle: Optional Project Subtitle
+subtitle: 'Skills: People Analytics, Data Visualization, Data Wrangling,'
 date: '2019-05-10'
 thumb_image: images/tim-goedhart-vnpTRdmtQ30-unsplash (1).jpg
 image: images/1.jpg
