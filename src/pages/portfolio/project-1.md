@@ -12,17 +12,17 @@ template: project
 
 *   [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
 
-    Full Report: 
+    Full Report:
 
-    [PDF](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
-
-    [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
+    [ PDF](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
 
     [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
 
-*   Kaggle Dataset: 
+    [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)
 
-    [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+*   Kaggle Dataset:
+
+    [ IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ##### [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)Project Goals:
 
