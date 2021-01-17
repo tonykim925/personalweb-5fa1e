@@ -8,7 +8,9 @@ thumb_image: images/turnover.png
 image: images/collage final.jpg
 template: project
 ---
-Full Report on IBM data: [PDF](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)    Kaggle Dataset: [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)Full Report on IBM data: [PDF](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)     
+
+Kaggle Dataset: [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 ##### [](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)Project Goals:
 
