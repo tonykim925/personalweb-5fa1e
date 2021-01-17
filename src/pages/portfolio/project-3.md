@@ -1,5 +1,5 @@
 ---
-title: 'Designing, Planning & Evaluating Reddit''s '
+title: 'Designing, Planning & Evaluating Reddit''s Training Program'
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/employee-training-program-featured.png
