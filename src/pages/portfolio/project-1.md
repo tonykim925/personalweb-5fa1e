@@ -40,4 +40,6 @@ Here I have created a report which used the [IBM Retention Dataset](https://www.
 
 5.  Exploratory Data Analysis
 
-#####
+##### My Role: 
+
+This is a personal project. Therefore, I have planned, designed, and executed the project from the beginning to the end. The dataset was created and shared on Kaggle. 
