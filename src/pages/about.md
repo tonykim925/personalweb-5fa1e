@@ -13,7 +13,7 @@ Here are some of my skillsets:
     (R, SPSS, Fundamental SQL)
 
 2.  **Survey Design & Analysis**
-     (Engagement, Climate, Well-Being, Sentiment, Etc.)
+    (Engagement, Climate, Well-Being, Sentiment, Etc.)
 
 3.  Research Design
 
