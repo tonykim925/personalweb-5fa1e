@@ -1,6 +1,6 @@
 ---
 title: SFSU Core Values Survey Design & Analysis
-subtitle: Optional Project Subtitle
+subtitle: 'Skills Used:'
 date: '2019-04-08'
 thumb_image: images/Company-Core-Values-article-FB-KING.png
 image: images/pink-jupiter.png
