@@ -28,4 +28,6 @@ The[ **Interdisciplinary Center for Healthy Workplaces (ICHW)**](https://healthy
 
 ##### Methods Used:
 
-1.  Literature Review
+1.   Literature Review (200+ research articles) 
+2.   Focus groups (20 + focus groups with small and medium-sized organizations 
+3.   Survey (1540 employers + 2892 employees with Transamerica Corporation Network) 
