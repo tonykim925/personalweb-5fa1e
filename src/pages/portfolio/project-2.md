@@ -10,11 +10,7 @@ template: project
 ---
 Photo Credit: sloanreview.mit.edu
 
-> Assuming people are rational decision-makers and would make these types of comparisons, then a successful wellness program would need to offer MORE desirable outcomes than competing alternatives. This is an essential element of building a successful wellness program.
+> Assuming people are rational decision-makers, then a successful wellness program would need to offer MORE desirable outcomes than competing alternatives. This is an essential element of building a successful wellness program.
 
-\<cite>
-
-Interdisciplinary Center for Healthy Workplaces
-
-\</cite>
+> \<cite>Interdisciplinary Center for Healthy Workplaces </cite>
 
