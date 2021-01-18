@@ -14,7 +14,7 @@ Photo Credit: sloanreview.mit.edu
 >
 > \-*Interdisciplinary Center for Healthy Workplaces*
 
-#### Project Documents:
+##### Project Documents:
 
 *   Official Employer's Guide:
 
