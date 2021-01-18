@@ -14,7 +14,9 @@ Photo Credit: sloanreview.mit.edu
 >
 > Assuming people are rational decision-makers and would make these types of comparisons, then a successful wellness program would need to offer MORE desirable outcomes than competing alternatives. This is an essential element of building a successful wellness program.
 >
-> 2018 Employer Guide: FINDING FIT: IMPLEMENTING WELLNESS PROGRAMS SUCCESSFULLY \</cite>
+> 2018 Employer Guide: FINDING FIT: IMPLEMENTING WELLNESS PROGRAMS SUCCESSFULLY
+>
+>  \</cite>
 >
 > This is an H1
 >
