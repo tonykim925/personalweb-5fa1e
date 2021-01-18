@@ -14,4 +14,18 @@ Photo Credit: sloanreview.mit.edu
 >
 > \-*Interdisciplinary Center for Healthy Workplaces*
 
-**This is a paragraph**. Pellentesque habitant morbi *tristique senectus et netus et malesuada* fames ac turpis egestas. Vestibulum [tortor quam](https://www.google.com), feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit
+##### Introduction
+
+**The Interdisciplinary Center for Healthy Workplaces (ICHW) partnered with Transamerica Corporation to develop an Employer Guide that will enable organizations (with an emphasis on small and medium-sized) to find a workplace wellness program that fits their specific constraints**.  Small and medium organizations face a number of limitations given their size and financial reserves, but employees’ health and well-being needs are constant regardless of organization size. Employees need a safe, socially supportive, and health-promoting work environment that not only supports their wellness but also enables them to do their best work. We have examined the available literature on wellness programs in general, and we have created a method based on our research for how organization leaders can design an effective wellness strategy that fits their constraints.
+
+##### Project Goals:
+
+1.   Identify key facilitators and barriers to successful wellness program implementation
+
+2.   Understand the various types of wellness programs and how each of them "fit" within various types of organizations 
+
+3.   Provide a guide for organizational leaders to help them properly design an effective wellness strategy that fits their constraints  
+
+##### Methods Used: 
+
+This is a personal project. Therefore, I have planned, designed, and executed the project from the beginning to the end. The dataset was created and shared on Kaggle.
