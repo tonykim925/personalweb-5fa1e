@@ -28,6 +28,16 @@ The[ **Interdisciplinary Center for Healthy Workplaces (ICHW)**](https://healthy
 
 ##### Methods Used:
 
-1.   Literature Review (200+ research articles) 
-2.   Focus groups (20 + focus groups with small and medium-sized organizations 
-3.   Survey (1540 employers + 2892 employees with Transamerica Corporation Network) 
+1.  Literature Review (200+ research articles)
+2.  Focus groups (20 + focus groups with small and medium-sized organizations
+3.  Survey (1540 employers + 2892 employees with Transamerica Corporation Network)
+
+##### My Role: 
+
+1.   Located and gathered relevant information from 55+ research articles  
+
+2.   Audited literature review coding from other researchers 
+
+3.   Conducted 15 focus groups including groups of executives, managers, and HR personnel
+
+4.   Analyzed survey and focus group data to identify trends and insights regarding wellness program participation 
