@@ -9,5 +9,3 @@ image: images/enthusiastic-spinach.jpg
 template: project
 ---
 Photo Credit: sloanreview.mit.edu
-
->
