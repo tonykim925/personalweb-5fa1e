@@ -14,13 +14,11 @@ Photo Credit: sloanreview.mit.edu
 >
 > \-*Interdisciplinary Center for Healthy Workplaces*
 
-##### Project Documents: 
+##### Project Documents:
 
-*   [Official Employer's Guide ](https://healthyworkplaces.berkeley.edu/sites/default/files/employer_guide_2018_03_30.pdf)
+*   [Official Employer's Guide : Finding Fit: Implementing Wellness Programs Successfully](https://healthyworkplaces.berkeley.edu/sites/default/files/employer_guide_2018_03_30.pdf)
 
-*   [](https://healthyworkplaces.berkeley.edu/sites/default/files/employer_guide_2018_03_30.pdf)
-
-    [Finding Fit Interactive Assessment](https://pages.github.berkeley.edu/healthyworkplaces/assessment-tool/#home)
+*   [Finding Fit Interactive Assessment](https://pages.github.berkeley.edu/healthyworkplaces/assessment-tool/#home)
 
 #####
 
