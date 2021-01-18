@@ -14,6 +14,16 @@ Photo Credit: sloanreview.mit.edu
 >
 > \-*Interdisciplinary Center for Healthy Workplaces*
 
+##### Project Documents: 
+
+*   [Official Employer's Guide ](https://healthyworkplaces.berkeley.edu/sites/default/files/employer_guide_2018_03_30.pdf)
+
+*   [](https://healthyworkplaces.berkeley.edu/sites/default/files/employer_guide_2018_03_30.pdf)
+
+    [Finding Fit Interactive Assessment](https://pages.github.berkeley.edu/healthyworkplaces/assessment-tool/#home)
+
+#####
+
 ##### Introduction
 
 The[ **Interdisciplinary Center for Healthy Workplaces (ICHW)**](https://healthyworkplaces.berkeley.edu/) partnered with [**Transamerica Corporation**](https://www.transamerica.com/individual/) to develop an Employer Guide that will enable organizations (with an emphasis on small and medium-sized) to find a workplace wellness program that fits their specific constraints.  Small and medium organizations face a number of limitations given their size and financial reserves, but employees’ health and well-being needs are constant regardless of organization size. Employees need a safe, socially supportive, and health-promoting work environment that not only supports their wellness but also enables them to do their best work. We have examined the available literature on wellness programs in general, and we have created a method based on our research for how organization leaders can design an effective wellness strategy that fits their constraints.
@@ -32,12 +42,12 @@ The[ **Interdisciplinary Center for Healthy Workplaces (ICHW)**](https://healthy
 2.  Focus groups (20 + focus groups with small and medium-sized organizations
 3.  Survey (1540 employers + 2892 employees with Transamerica Corporation Network)
 
-##### My Role: 
+##### My Role:
 
-1.   Located and gathered relevant information from 55+ research articles  
+1.  Located and gathered relevant information from 55+ research articles
 
-2.   Audited literature review coding from other researchers 
+2.  Audited literature review coding from other researchers
 
-3.   Conducted 15 focus groups including groups of executives, managers, and HR personnel
+3.  Conducted 15 focus groups including groups of executives, managers, and HR personnel
 
-4.   Analyzed survey and focus group data to identify trends and insights regarding wellness program participation 
+4.  Analyzed survey and focus group data to identify trends and insights regarding wellness program participation
