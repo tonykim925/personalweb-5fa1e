@@ -1,5 +1,5 @@
 ---
-title: 'SFSU Core Values '
+title: SFSU Core Values Survey Design & Analysis
 subtitle: Optional Project Subtitle
 date: '2019-04-08'
 thumb_image: images/employee-training-program-featured.png
