@@ -16,11 +16,7 @@ Photo Credit: sloanreview.mit.edu
 
 ##### Project Documents:
 
-*   [Finding Fit: Implementing Wellness Programs Successfull](https://healthyworkplaces.berkeley.edu/sites/default/files/employer_guide_2018_03_30.pdf)
-
-    [](https://pages.github.berkeley.edu/healthyworkplaces/assessment-tool/#home)
-
-    y
+*   [Finding Fit: Implementing Wellness Programs Successfully](https://healthyworkplaces.berkeley.edu/sites/default/files/employer_guide_2018_03_30.pdf)
 *   [Finding Fit: Which Wellness Program Best Fits Your Organization?](https://pages.github.berkeley.edu/healthyworkplaces/assessment-tool/#home)
 
 #####
