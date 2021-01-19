@@ -28,7 +28,7 @@ The project was split into three components: **survey design, survey recruitment
 
 ###### Survey Design:
 
-The\*\* survey design process started with a brainstorming session to define the goal of the project and to gather hypotheses, when evaluated, that would add the most value to the project\*\*. In 2018, San Francisco State University reported higher rates of student homelessness and food insecurity.  With that in mind, **our team decided to investigate both the causes of as well as the effects of food & housing insecurity.** With this goal in mind,\*\* we developed a list of constructs to evaluate and gathered pre-validated assessment tools\*\* (from academic literature) to measure each construct. We also consulted with the department of social work and public health with SFSU in developing the survey.
+The **survey design process started with a brainstorming session to define the goal of the project and to gather hypotheses, when evaluated, that would add the most value to the project**. In 2018, San Francisco State University reported higher rates of student homelessness and food insecurity.  With that in mind, **our team decided to investigate both the causes of as well as the effects of food & housing insecurity.** With this goal in mind,\*\* we developed a list of constructs to evaluate and gathered pre-validated assessment tools\*\* (from academic literature) to measure each construct. We also consulted with the department of social work and public health with SFSU in developing the survey.
 
 ###### Survey Recruitment:
 
