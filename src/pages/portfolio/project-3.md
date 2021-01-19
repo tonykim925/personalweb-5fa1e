@@ -30,13 +30,13 @@ The survey design process started with a brainstorming session to define the goa
 
 ###### Survey Recruitment:
 
-Survey recruitment had two goals: attain a large sample and to attain a sample representative of SFSU's population. In order to reduce sampling bias, the team attempted to collect data from a wide range of students from different backgrounds. This included having members of the team collecting at different locations and times all around the campus. Team members also recruited via faculty-approved classroom visits. Classes with a large array of students of different backgrounds were prioritized.  In the end, the team collected 1086 useable survey data. 
+Survey recruitment had two goals: attain a large sample and to attain a sample representative of SFSU's population. In order to reduce sampling bias, the team attempted to collect data from a wide range of students from different backgrounds. This included having members of the team collecting at different locations and times all around the campus. Team members also recruited via faculty-approved classroom visits. Classes with a large array of students of different backgrounds were prioritized.  In the end, the team collected 1086 useable survey data.
 
-###### Survey Analysis: 
+###### Survey Analysis:
 
-***
+###### The survey analysis process started by scoring each construct based on the score guide from the original assessment. Then each hypothesis was evaluated either through a series of t-tests, linear regression, and logistic regression. Both main effects as well as moderation effects were evaluated. Results were there discussed and presented to the SFSU administration. 
 
-##### Constructs Measured: 
+###### Appendix: Constructs Measured:
 
 1.  SFSU's Core Values (Courage, life of mind, equity, community, resilience)
 
