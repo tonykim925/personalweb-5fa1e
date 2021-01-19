@@ -32,12 +32,14 @@ Graduate students in the San Francisco State University's Industrial-Organizatio
 
 5.  Spiritual Health (Combination of work & meaning and spiritual identification)
 
-6.  Food & Housing Insecurity
+6.  Psychological Safety 
 
-7.  Frequency of School Stressors
+7.  Food & Housing Insecurity
 
-8.  Support Sources
+8.  Frequency of School Stressors
 
-9.  Financial Education
+9.  Support Sources
+
+10. Financial Education
 
 #####
