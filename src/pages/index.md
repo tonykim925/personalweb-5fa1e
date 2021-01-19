@@ -23,12 +23,6 @@ sections:
         icon_class: lorem-ipsum
         new_window: false
         type: action
-      - label: Resume
-        url: ''
-        style: link
-        icon_class: lorem-ipsum
-        new_window: false
-        type: action
   - section_id: latest-projects
     type: section_portfolio
     layout_style: tiles
