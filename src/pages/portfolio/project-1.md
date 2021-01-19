@@ -10,9 +10,9 @@ template: project
 ---
 Full Report (Documentation + Code Included): [**PDF**](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://tonykim925.github.io/ibm-dataset-analysis/ibm-dataset-analysis.pdf)[](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/download)[](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset/download)
 
-##### Note: 
+##### Note:
 
-*This project uses the *[*IBM Retention Dataset*](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)*, which is a fictional dataset created by IBM data scientists. *
+\*This project uses the [*IBM Retention Dataset*](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset), which is a fictional dataset created by IBM data scientists. \*
 
 ##### Introduction
 
