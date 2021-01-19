@@ -20,7 +20,19 @@ All 1086 participants of the study were told that their responses would only be 
 
 Graduate students in the San Francisco State University's Industrial-Organizational Psychology conducted a Core Values survey to evaluate how well SF State embodies our Core Values and provided a report to administration. This year the students took a deep dive into the Core Value of Resilience by evaluating basic needs on campus. 1,086 students provided useable data during Spring 2019.
 
-##### Constructs Measured:
+##### Method:
+
+The project was split into three components: survey design, survey recruitment, and survey analysis.
+
+###### Survey Design:
+
+The survey design process started with a brainstorming session to define the goal of the project and to gather hypotheses, when evaluated, that would add the most value to the project. In 2018, San Francisco State University reported higher rates of student homelessness and food insecurity.  With that in mind, our team decided to investigate both the causes of as well as the effects of food & housing insecurity. With this goal in mind, we developed a list of constructs to evaluate and gathered pre-validated assessment tools (from academic literature) to measure each construct. We also consulted with the department of social work and public health with SFSU in developing the survey. 
+
+###### Survey Recruitment: 
+
+***
+
+***
 
 1.  SFSU's Core Values (Courage, life of mind, equity, community, resilience)
 
@@ -42,20 +54,8 @@ Graduate students in the San Francisco State University's Industrial-Organizatio
 
 10. Financial Education
 
-##### Method:
+***
 
-The project was split into three parts: survey design, survey recruitment, and survey analysis. 
+***
 
-###### Survey Design:  
-
-The survey design process started with a brainstorming session to define the goal of the project and to gather hypotheses, when evaluated, that would add the most value to the project.  
-
-****
-
-****
-
-****
-
-****
-
-****
+***
