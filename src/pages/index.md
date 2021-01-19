@@ -56,13 +56,13 @@ sections:
           **Background in learning & development, performance management, hiring
           & retention, organizational culture, change management, etc.**
       - title: Survey Design & Analysis
-        content: >-
+        content: >
           Although surveys often recieve a bad rep, they are efficient tools to
           obtain key employee metrics. I have designed and analyzed surveys
-          aiming to understand employee behaviors and attitudes. 
+          aiming to understand employee behaviors and attitudes.
 
 
-          **Exp. with Engagement, Org Climate, and Well-Being Surveys**
+          **Exp. with engagement, org climate, and well-being surveys**
   - section_id: latest-posts
     type: section_posts
     title: Latest from the Blog
