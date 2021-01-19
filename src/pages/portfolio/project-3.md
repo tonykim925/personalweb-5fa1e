@@ -34,7 +34,7 @@ Survey recruitment had two goals: attain a large sample and to attain a sample r
 
 ###### Survey Analysis:
 
-###### The survey analysis process started by scoring each construct based on the score guide from the original assessment. Then each hypothesis was evaluated either through a series of t-tests, linear regression, and logistic regression. Both main effects as well as moderation effects were evaluated. Results were there discussed and presented to the SFSU administration. 
+The survey analysis process started by scoring each construct based on the score guide from the original assessment. Then each hypothesis was evaluated either through a series of t-tests, linear regression, and logistic regression. Both main effects as well as moderation effects were evaluated. Results were there discussed and presented to the SFSU administration.
 
 ###### Appendix: Constructs Measured:
 
