@@ -24,7 +24,7 @@ Graduate students in the San Francisco State University's Industrial-Organizatio
 
 ##### Method:
 
-The project was split into three components:** survey design, survey recruitment, and survey analysis.**
+The project was split into three components: **survey design, survey recruitment, and survey analysis**.
 
 ###### Survey Design:
 
