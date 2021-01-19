@@ -12,6 +12,8 @@ template: project
 
 Paper Version of the Survey: [SFSU Core Values Survey 2019](https://drive.google.com/file/d/1GiW7ZyTcj8ZD8Qed\_4UtMAOmeF_zzVTX/view?usp=sharing)
 
+*Qualtrics version was created but is not currently available*
+
 ##### Note:
 
 All 1086 participants of the study were told that their responses would only be shared with SFSU and its administration - not the general public. Therefore, research results will not be shared in this portfolio.
@@ -58,6 +60,6 @@ The survey analysis process started by scoring each construct based on the score
 
 10. Financial Education
 
-##### My Role: 
+##### My Role:
 
 Everyt
