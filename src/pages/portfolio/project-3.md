@@ -10,7 +10,7 @@ template: project
 ---
 ##### Key Documents:
 
-Paper Version of the Survey:
+Paper Version of the Survey: [SFSU Core Values Survey 2019](https://drive.google.com/file/d/1GiW7ZyTcj8ZD8Qed\_4UtMAOmeF_zzVTX/view?usp=sharing)
 
 ##### Note:
 
@@ -58,8 +58,6 @@ The survey analysis process started by scoring each construct based on the score
 
 10. Financial Education
 
-***
+##### My Role: 
 
-***
-
-***
+Everyt
