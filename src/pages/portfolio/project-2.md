@@ -1,5 +1,5 @@
 ---
-title: 'Employer''s Guide: How to Implement Successful Wellness Programs '
+title: 'Employer''s Guide: How to Implement Successful Wellness Programs'
 subtitle: >-
   Skills: Survey Design & Analysis, Focus Group Design & Execution, People (HR)
   Programs Creation, Qualitative & Quantitative Analysis
