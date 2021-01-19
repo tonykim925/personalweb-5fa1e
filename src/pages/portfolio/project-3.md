@@ -32,7 +32,7 @@ Graduate students in the San Francisco State University's Industrial-Organizatio
 
 5.  Spiritual Health (Combination of work & meaning and spiritual identification)
 
-6.  Psychological Safety 
+6.  Psychological Safety
 
 7.  Food & Housing Insecurity
 
@@ -42,4 +42,20 @@ Graduate students in the San Francisco State University's Industrial-Organizatio
 
 10. Financial Education
 
-#####
+##### Method:
+
+The project was split into three parts: survey design, survey recruitment, and survey analysis. 
+
+###### Survey Design:  
+
+The survey design process started with a brainstorming session to define the goal of the project and to gather hypotheses, when evaluated, that would add the most value to the project.  
+
+****
+
+****
+
+****
+
+****
+
+****
