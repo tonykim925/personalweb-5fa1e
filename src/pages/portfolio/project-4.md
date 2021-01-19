@@ -1,5 +1,5 @@
 ---
-title: Project Title 4
+title: 'Designing People Programs: Reddit''s Training Program'
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
 thumb_image: images/1_zBskbudq9ve0gqDGOkAjiQ.jpeg
