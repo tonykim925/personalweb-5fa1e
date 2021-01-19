@@ -14,6 +14,9 @@ Here are some of my skillsets:
 4.  Understanding of Multiple HR Functions (Selection/Recruitment, Learning & Development, Organizational Culture, Etc.)
 5.  Consultanting (HR + Strategy)
 
+
+Other than that some of my hobbies include cooking (especially if it's for others), playing tennis, and ceramics. I'm also hoping to get a cat soon! Hopefully next time I will have a picture of my new cat on this about me page. 
+
 Please feel free to check out my portfolio to see some of my latest projects. For any inquiries please email me at *tony.kim925@gmail.com*.  I’ll get back to you as soon as possible.
 
 Tony (Kwang Hyun) Kim
