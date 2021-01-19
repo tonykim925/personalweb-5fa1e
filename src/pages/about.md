@@ -12,7 +12,7 @@ Here are some of my skillsets:
 2.  Survey Design & Analysis (Engagement, Climate, Well-Being, Sentiment, Etc.)
 3.  Research Design
 4.  Understanding of Multiple HR Functions (Selection/Recruitment, Learning & Development, Organizational Culture, Etc.)
-5.  Consultanting (HR + Strategy)
+5.  Consulting (HR + Strategy)
 
 Other than that some of my hobbies include cooking (especially if it's for others), playing tennis, and ceramics. I'm also hoping to get a cat soon! Hopefully next time I will have a picture of my new cat on this about me page.
 
