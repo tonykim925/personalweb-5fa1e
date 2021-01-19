@@ -9,6 +9,7 @@ sections:
       I am a people & workplace researcher living in the San Francisco Bay Area.
       I am passionate about helping organizations make data and research-driven
       decisions when it comes to their most valuable resource - their workers.
+      Feel free to take a look at my portfolio and my skill sets below.
 
 
       **Curious to know more?**
