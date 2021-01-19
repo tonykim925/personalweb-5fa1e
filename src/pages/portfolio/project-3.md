@@ -26,13 +26,17 @@ The project was split into three components: survey design, survey recruitment, 
 
 ###### Survey Design:
 
-The survey design process started with a brainstorming session to define the goal of the project and to gather hypotheses, when evaluated, that would add the most value to the project. In 2018, San Francisco State University reported higher rates of student homelessness and food insecurity.  With that in mind, our team decided to investigate both the causes of as well as the effects of food & housing insecurity. With this goal in mind, we developed a list of constructs to evaluate and gathered pre-validated assessment tools (from academic literature) to measure each construct. We also consulted with the department of social work and public health with SFSU in developing the survey. 
+The survey design process started with a brainstorming session to define the goal of the project and to gather hypotheses, when evaluated, that would add the most value to the project. In 2018, San Francisco State University reported higher rates of student homelessness and food insecurity.  With that in mind, our team decided to investigate both the causes of as well as the effects of food & housing insecurity. With this goal in mind, we developed a list of constructs to evaluate and gathered pre-validated assessment tools (from academic literature) to measure each construct. We also consulted with the department of social work and public health with SFSU in developing the survey.
 
-###### Survey Recruitment: 
+###### Survey Recruitment:
+
+Survey recruitment had two goals: attain a large sample and to attain a sample representative of SFSU's population. In order to reduce sampling bias, the team attempted to collect data from a wide range of students from different backgrounds. This included having members of the team collecting at different locations and times all around the campus. Team members also recruited via faculty-approved classroom visits. Classes with a large array of students of different backgrounds were prioritized.  In the end, the team collected 1086 useable survey data. 
+
+###### Survey Analysis: 
 
 ***
 
-***
+##### Constructs Measured: 
 
 1.  SFSU's Core Values (Courage, life of mind, equity, community, resilience)
 
