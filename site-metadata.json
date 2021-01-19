@@ -1,7 +1,7 @@
 {
     "description": "Personal Portfolio & Blog ",
     "color_scheme": "light",
-    "accent_color": "pink",
+    "accent_color": "blue",
     "header": {
         "title": "T.K.",
         "has_nav": true,
