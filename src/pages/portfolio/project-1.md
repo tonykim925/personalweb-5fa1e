@@ -12,7 +12,7 @@ Full Report (Documentation + Code Included): [**PDF**](https://tonykim925.github
 
 ##### Note:
 
-*\*This project uses the *[*IBM Retention Dataset*](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)*, which is a fictional dataset created by IBM data scientists. \**
+*This project uses the *[*IBM Retention Dataset*](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)*, which is a fictional dataset created by IBM data scientists. *
 
 ##### Introduction
 
