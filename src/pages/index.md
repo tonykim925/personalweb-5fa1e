@@ -50,11 +50,11 @@ sections:
         content: >
           My time at San Francisco State University's Industrial-Organizational
           Psychology Masters Program provided training on most organizational HR
-          functions. 
+          functions.
 
 
           **Background in learning & development, performance management, hiring
-          & retention, organizational culture, change management, etc. **
+          & retention, organizational culture, change management, etc.**
       - title: Survey Design & Analysis
         content: >-
           Although surveys often recieve a bad rep, they are efficient tools to
