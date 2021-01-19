@@ -8,8 +8,6 @@ thumb_image: images/Company-Core-Values-article-FB-KING.png
 image: images/pink-jupiter.png
 template: project
 ---
-*Graduate School Project *
-
 Key Documents:
 
 Paper Version of the Survey: [SFSU Core Values Survey 2019](https://drive.google.com/file/d/1GiW7ZyTcj8ZD8Qed\_4UtMAOmeF_zzVTX/view?usp=sharing)
