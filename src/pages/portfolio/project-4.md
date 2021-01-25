@@ -1,5 +1,5 @@
 ---
-title: 'Designing People Programs: Reddit''s Training Program'
+title: Designing Reddit's Training Program
 subtitle: >-
   Skills Used: Program Design, Program Evaluation, Learning & Development,
   Research
